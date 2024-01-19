@@ -5,3 +5,6 @@
 [submodule "normfluodbf"]
 	path = normfluodbf
 	url = https://github.com/alphaprime7/normfluodbf
+[submodule "tidyDenovix"]
+	path = tidyDenovix
+	url = https://github.com/alphaprime7/tidydenovix
